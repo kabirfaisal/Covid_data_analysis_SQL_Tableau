@@ -67,13 +67,6 @@ order by PercentPopulationInfected desc
 
 
 
-
-
-
---
-
-
-
 -- 1.
 
 Select dea.continent, dea.location, dea.date, dea.population
